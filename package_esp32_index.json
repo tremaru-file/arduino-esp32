@@ -11,7 +11,7 @@
           "category": "ESP32",
           "name": "esp32",
           "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/0.0.1-alpha/esp32-0.0.1-alpha.zip",
-          "checksum": "SHA-256:4ee0ef0be43248c136478821abf77cbf73ade4ef1755cae6f045c69e9d4b8dbc",
+          "checksum": "SHA-256:a651f8792421ab7e11828b876c9a5e694cf98e6a677f0f35433a842b93a4ff1f",
           "help": {
             "online": ""
           },
@@ -46,7 +46,7 @@
               "name": "mkspiffs"
             }
           ],
-          "size": "35962922"
+          "size": "35962911"
         },
         {
           "category": "ESP32",
