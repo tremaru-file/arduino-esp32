@@ -10,14 +10,14 @@
         {
           "category": "ESP32",
           "name": "esp32",
-          "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/0.0.1-alpha/esp32-0.0.1-alpha.zip",
+          "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/1.0.4/esp32-1.0.4.zip",
           "checksum": "SHA-256:de73fabcee7db45994f46d479ef22ec829c53913af1c98aad36e0b7d6c4ce661",
           "help": {
             "online": ""
           },
-          "version": "0.0.1-alpha",
+          "version": "1.0.4",
           "architecture": "esp32",
-          "archiveFileName": "esp32-0.0.1-alpha.zip",
+          "archiveFileName": "esp32-1.0.4.zip",
           "boards": [
             {
               "name": "ESP32 Dev Module"
