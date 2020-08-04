@@ -9,3 +9,5 @@ Changed August 4th 2020 by iarduino.ru
 ### Tip
 
 Sometimes to program ESP32 via serial you must keep GPIO0 LOW during the programming process
+
+~tag added~
