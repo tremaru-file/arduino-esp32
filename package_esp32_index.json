@@ -11,22 +11,19 @@
           "category": "ESP32",
           "name": "esp32",
           "url": "https://github.com/tremaru-file/arduino-esp32/archive/1.0.4.zip",
-          "checksum": "SHA-256:de73fabcee7db45994f46d479ef22ec829c53913af1c98aad36e0b7d6c4ce661",
+          "checksum": "SHA-256:94d2c92c026bc836d1fff3d4f82706021d3e9345670cf9857d0f4ac3e0b07d19",
           "help": {
             "online": ""
           },
           "version": "1.0.4",
           "architecture": "esp32",
-          "archiveFileName": "esp32-1.0.4.zip",
+          "archiveFileName": "1.0.4.zip",
           "boards": [
             {
-              "name": "ESP32 Dev Module"
+              "name": "Piranha ESP32"
             },
             {
-              "name": "WEMOS LoLin32"
-            },
-            {
-              "name": "WEMOS D1 MINI ESP32"
+              "name": "Metro ESP32"
             }
           ],
           "toolsDependencies": [
@@ -46,7 +43,7 @@
               "name": "mkspiffs"
             }
           ],
-          "size": "35963869"
+          "size": "42646864"
         }
       ],
       "tools": [
