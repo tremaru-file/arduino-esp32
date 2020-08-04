@@ -10,14 +10,14 @@
         {
           "category": "ESP32",
           "name": "esp32",
-          "url": "https://github.com/tremaru-file/arduino-esp32/archive/1.0.4.zip",
-          "checksum": "SHA-256:94d2c92c026bc836d1fff3d4f82706021d3e9345670cf9857d0f4ac3e0b07d19",
+          "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/1.0.4/esp32-1.0.4-iarduino.zip",
+          "checksum": "SHA-256:81F6E7ABC62325DDCD6AE8955E3A4A3386E9F46A3F8EB05BDDEFF46958B20DA2",
           "help": {
             "online": ""
           },
           "version": "1.0.4",
           "architecture": "esp32",
-          "archiveFileName": "1.0.4.zip",
+          "archiveFileName": "esp32-1.0.4-iarduino.zip",
           "boards": [
             {
               "name": "Piranha ESP32"
@@ -43,7 +43,7 @@
               "name": "mkspiffs"
             }
           ],
-          "size": "42646864"
+          "size": "35904985"
         }
       ],
       "tools": [
