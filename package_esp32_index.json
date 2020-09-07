@@ -9,7 +9,7 @@
       "platforms": [
         {
           "category": "ESP32",
-          "name": "esp32",
+          "name": "esp32-iarduino.ru",
           "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/1.0.4/esp32-1.0.4-iarduino.zip",
           "checksum": "SHA-256:81F6E7ABC62325DDCD6AE8955E3A4A3386E9F46A3F8EB05BDDEFF46958B20DA2",
           "help": {
