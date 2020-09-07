@@ -16,7 +16,7 @@
             "online": ""
           },
           "version": "1.0.4",
-          "architecture": "Metro",
+          "architecture": "esp32",
           "archiveFileName": "esp32-1.0.4-iarduino.zip",
           "boards": [
             {
