@@ -1,23 +1,26 @@
 {
   "packages": [
     {
-      "maintainer": "iarduino.ru",
+      "name": "Metro",
+      "maintainer": "iarduino",
+      "websiteURL": "iarduino.ru",
+      "email": "shop@iarduino.ru",
       "help": {
-        "online": "http://esp32.com"
+        "online": "http://wiki.iarduino.ru"
       },
-      "websiteURL": "https://github.com/tremaru-file/arduino-esp32",
       "platforms": [
         {
-          "category": "MetroESP32",
           "name": "Metro and Piranha ESP32 boards",
+          "architecture": "esp32",
+          "version": "1.0.4",
+          "category": "Contributed",
           "url": "https://github.com/tremaru-file/arduino-esp32/releases/download/1.0.4/esp32-1.0.4-iarduino.zip",
+          "archiveFileName": "esp32-1.0.4-iarduino.zip",
           "checksum": "SHA-256:81F6E7ABC62325DDCD6AE8955E3A4A3386E9F46A3F8EB05BDDEFF46958B20DA2",
+          "size": "35904985",
           "help": {
             "online": ""
           },
-          "version": "1.0.4",
-          "architecture": "esp32",
-          "archiveFileName": "esp32-1.0.4-iarduino.zip",
           "boards": [
             {
               "name": "Piranha ESP32"
@@ -42,8 +45,7 @@
               "version": "0.2.3",
               "name": "mkspiffs"
             }
-          ],
-          "size": "35904985"
+          ]
         }
       ],
       "tools": [
@@ -259,9 +261,7 @@
             }
           ]
         }
-      ],
-      "email": "shop@iarduino.ru",
-      "name": "esp32-iarduino"
+      ]
     }
   ]
 }
